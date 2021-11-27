@@ -1,0 +1,78 @@
+.header{
+    background-color: #d4418e;
+background-image: linear-gradient(315deg, #d4418e 20%, #0652c5 74%);
+    height: 250px;
+    width: 100%;
+}
+.sci{
+    background-color: #1fd1f9;
+background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+
+    text-align: center; 
+    height: 55px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 37px;
+}
+.container{
+    width: 80%;
+    text-align: center;
+}
+.avicii{
+    font-size: 20px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+.card{
+    background-color: #63a4ff;
+background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+}
+.content{
+    background-color: #63a4ff;
+background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+border-radius: 5px;
+}
+img{
+    border-radius: 5px;
+}
+.smaller{
+    font-size: 15px;
+}
+.aling{
+    width: 80%;
+    text-align: center;
+}
+.logo{
+    margin-top: 10px;
+}
+body{
+    background-color: #fde7f9;
+background-image: linear-gradient(315deg, #fde7f9 0%, #aacaef 74%);
+
+}
+.content{
+    width: 78%;
+    
+    text-align: left;
+    font-size: 20px;
+    
+}
+.sci2{
+    background-color: #726cf8;
+background-image: linear-gradient(315deg, #726cf8 0%, #e975a8 74%);
+     width: 100%;
+     color: white;
+     font-size: 21px;
+     text-align: center;
+}
+.heading{
+    
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
